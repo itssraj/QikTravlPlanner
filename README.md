@@ -11,3 +11,11 @@ Time for an exciting use case. Now is the time to use all the knowledge gathered
 7. The app logic
 8. Gradio Interface
 9. Deployment
+
+
+---
+title: QikTravlPlan
+app_file: itssraj-app.py
+sdk: gradio
+sdk_version: 5.44.1
+---
